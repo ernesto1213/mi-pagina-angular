@@ -1,0 +1,22 @@
+.cat-animation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    background-color: #ff5c8d;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
